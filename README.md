@@ -56,6 +56,8 @@ Please download it from Kaggle and place it in the `data/` directory.
 - Precision–Recall AUC proved more informative than accuracy
 - Threshold tuning improved fraud detection sensitivity
 
+## Dataset not included due to GitHub file size limits.
+Download from Kaggle and place creditcard.csv in the project directory.
 ## ✅ Conclusion
 This project demonstrates real-world handling of imbalanced datasets,
 appropriate metric selection, and threshold optimization for fraud detection
@@ -64,3 +66,4 @@ systems.
 ---
 
 ⭐ If you find this project useful, feel free to star the repository!
+
